@@ -1,7 +1,7 @@
 ## tobii_emoz
 
 
-Functions to process Tobii's eye-tracking data recording during a task of emotion recognition from speaker intonation. The experiment is very specific to the study. You can find details about the study in this paper from Speech Prosody 2016 Proceedings : [Effects of prosody in processing speaker commitment in French, C. Petrone, A. Lonobile, C. Zielinski and K. Ito](https://sites.google.com/site/sp2016enhancedproceedings/p524a).
+Functions to process Tobii's eye-tracking data recording during a task of emotion recognition from speaker intonation. The experiment is very specific to the study. You can find details about the study in this paper from Speech Prosody 2016 Proceedings : <a href="https://sites.google.com/site/sp2016enhancedproceedings/p524a" target="_blank"> Effects of prosody in processing speaker commitment in French, C. Petrone, A. Lonobile, C. Zielinski and K. Ito</a>.
 
 ### Experimental design (visual world paradigm) 
 For each stimulus, a sentence is pronounced by a speaker (e.g. "Mary organized a party."). At the same time, an image showing 2 different facial expressions of the speaker is showing. The instruction is to click on the picture representing the speaker. The possible pairs of face photographies are related to the expression of assertion/incredulity, anger/fear or sadness/happiness. The whole experiment contains a total of 126 stimuli that were built from 2 speakers (a woman and a man). The eye movements are recorded during the task using Tobii T120 with TobiiStudio.
