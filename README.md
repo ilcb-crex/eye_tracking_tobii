@@ -4,5 +4,8 @@ CREx-BLRI project's in eye-tracking (using Tobii T120 eye-tracker)
 
 
 ## tobii_skype
-Matlab script to read Tobii's data file (tsv export) and write data as Elan's annotations
+Matlab scripts to read Tobii's data file (tsv export) and write data as Elan's annotations
+
+## tobii_emoz
+Matlab scripts to process Tobii data from a visual world paradigm (fixation are realigned according to critical times of the auditive stimulation)
 
