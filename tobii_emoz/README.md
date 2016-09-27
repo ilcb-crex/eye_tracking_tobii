@@ -18,16 +18,16 @@ The name of the AOI are formatted so that it begins with the "Cor" or "Incor" in
 
 ### Data processing with specific Matlab scripts
   
-- emoz_time_analysis : main script to launch all the calculations:
-	- emoz_timeanalysis_extract : function to read all the fixation data as well as additional data files (from the norming study and from the frequency analysis of the sentences). All the data are gather together in a BIG data structure with several versions of fixation data depending on the critical time used to make the temporal realignment per media. Additional functions are called to read the additional data: emoz_read_norming, emoz_red_critime and emoz_read_speechfreq
-	- emoz_timeanalysis_prepare : reassign fixation values at common time samples (find fixations close to each "perfect time" point, the same for all media and conditions) (fsamlp = 60 Hz)
-	- emoz_timeanalysis_compute : compute the mean proportion of fixation for all data type (fixations related to MAN/WOMAN speaker, correct/incorrect answers, poorly/well differenciated media)
-	- emoz_timeanalysis_patchwork : define the composite curve of mean proportion of fixation using mean critical times to fix the limits of each portion of realigned data (from t_beg to t_noun, t_noun to t_verb...)
-	- emoz_timeanalysis_patchwork_fig : output the figure of the fixation curves
-	- emoz_timeanalysis_paper_fig : special figure for paper, with light title and the possibility to move the legend by hand before the figure being automatically saved
-- emoz_timeanalysis_tabfull : write the processed fixation data in a table for statistical analysis
+- **emoz_time_analysis**: main script to launch all the calculations:
+	- **emoz_timeanalysis_extract**: function to read all the fixation data as well as additional data files (from the norming study and from the frequency analysis of the sentences). All the data are gather together in a BIG data structure with several versions of fixation data depending on the critical time used to make the temporal realignment per media. Additional functions are called to read the additional data: emoz_read_norming, emoz_red_critime and emoz_read_speechfreq
+	- **emoz_timeanalysis_prepare**: reassign fixation values at common time samples (find fixations close to each "perfect time" point, the same for all media and conditions) (fsamlp = 60 Hz)
+	- **emoz_timeanalysis_compute**: compute the mean proportion of fixation for all data type (fixations related to MAN/WOMAN speaker, correct/incorrect answers, poorly/well differenciated media)
+	- **emoz_timeanalysis_patchwork**: define the composite curve of mean proportion of fixation using mean critical times to fix the limits of each portion of realigned data (from t_beg to t_noun, t_noun to t_verb...)
+	- **emoz_timeanalysis_patchwork_fig**: output the figure of the fixation curves
+	- **emoz_timeanalysis_paper_fig**: special figure for paper, with light title and the possibility to move the legend by hand before the figure being automatically saved
+- **emoz_timeanalysis_tabfull**: write the processed fixation data in a table for statistical analysis
 
-Tobii data that are provided in data/export_tobii directory are only a few sample of the whole data set (3 subjects/22).
+Tobii data that are provided in the data/export_tobii directory are only a few sample of the whole data set (3 subjects/22).
 
 
 <p align="center"> <img src="img/emoz_prop_assert_incr_goodmed.png" width="500"> </p>
@@ -36,10 +36,11 @@ Example of figure of result.
 
 
 
-### More details and comments will coming soon and can be provided by request !
+### More details and comments will coming soon (and can be provided by request)
 
 Data struture output by emoz_timeanalysis_extract
 
+----
 Sdat.[INTONATION_MEANING].[SPEAKER]
 .subj : cell array of subject names
 .medianames : cell array of media names
