@@ -1,0 +1,127 @@
+﻿Video	t_beg_sound	t_end_noun	t_end_pp	t_end_sound	sentence
+female10-stat-left.avi	0.29	0.72	1.08	1.44	Tristan a écrit un roman
+female11-stat-left.avi	0.4	0.82	1.52	2.18	Alexia a participé à un championnat
+female12-stat-left.avi	0.29	0.63	1.06	1.6	Margo a nettoyé les toilettes
+female13-stat-left.avi	0.37	0.76	1.1	1.6	Roxane a conduit la voiture
+female14-stat-left.avi	0.37	0.76	1.2	1.6	Bastien a prêté le vélo
+female15-stat-left.avi	0.24	0.61	1.04	1.3	David a préparé du riz
+female16-stat-left.avi	0.4	0.67	1	1.53	Hugo a vendu la guitare
+female17-incr-right.avi	0.26	0.67	1.06	1.56	Adeline a porté une robe
+female18-happ-left.avi	0.61	0.9	1.16	1.7	Corine a joué au théatre
+female19-incr-right.avi	0.48	0.905	1.15	1.67	Christine a fait un gateau
+female20-sad-right.avi	0.27	0.5	0.82	1.27	Marie a quitté la ville
+female21-incr-right.avi	0.4	0.85	1.28	1.97	Jorgie a regardé un film
+female22-incr-right.avi	0.38	0.63	1.17	1.8	Claire a repassé une chemise
+female23-happ-left.avi	0.32	0.68	1	1.6	Maurice a changé son travail
+female24-incr-right.avi	0.155	0.61	0.95	1.33	Chantal a acheté une maison
+female25-happ-left.avi	0.55	0.9	1.21	1.7	Pascal a appelé son cousin
+female26-incr-right.avi	0.247	0.62	0.86	1.19	Monique a pris l'avion
+female27-happ-left.avi	0.299	0.59	0.786	1.393	Carole était à la gare
+female28-incr-right.avi	0.234	0.8	1.23	1.6	Virginie a adopté un chat
+female29-happ-left.avi	0.23	0.54	0.92	1.42	Amélie m'a offert la guitare
+Female2-stat-left.avi	0.51	0.73	1.2	1.78	Claire a repassé une chemise
+female30-incr-right.avi	0.336	0.76	1.36	1.79	Marion a organisé une fête
+female31incr-right.avi	0.322	0.73	1.297	1.89	Alexia a participé au championnat
+female32-fear-right.avi	0.788	1.05	1.4	2.02	Lola est monté sur le toit
+female33-sad-right.avi	0.506	0.85	1.34	1.82	Bastien s'en est allé de la maison
+female34-incr-right.avi	0.283	0.68	1.11	1.726	Margo a nettoyé les toilettes
+female35-fear-right.avi	0.33	0.73	1.06	1.83	Cécile est sortie avec un homme brun
+female36-incr-right.avi	0.23	0.645	0.99	1.4	Tristan a écrit un roman
+female37happ-left.avi	0.455	0.69	1.102	1.508	Annie m'a montré les photos
+female38-incr-right.avi	0.254	0.71	1.08	1.6	Roxane a conduit la voiture
+female39sad-right.avi	0.27	0.68	1.19	1.78	Daniel m'a annoncé les résultats
+female3-stat-left.avi	0.38	0.73	1	1.36	Christine a fait un gateau
+female40-fear-right.avi	0.51	0.99	1.24	1.795	Floriane a joué au tennis
+female41-incr-right.avi	0.37	0.82	1.18	1.47	Bastien a prêté le vélo
+female42-fear-right.avi	0.52	0.83	1.16	1.7	Audrey a passé des examens
+female43-incr-right.avi	0.37	0.76	1.17	1.7	Nadine a commandé de la viande
+female44-fear-right.avi	0.39	0.76	1.21	1.8	Cédric m'a demandé un rendez-vous
+female45-sad-right.avi	0.84	1.26	1.71	2.66	Céline a obtenu un emploi en Asie
+female46-fear-right.avi	0.67	0.96	1.48	2.07	Nadine a consulté un avocat
+female47-incr-right.avi	0.56	0.93	1.35	1.675	David a préparé du riz
+female48-sad-right.avi	0.49	0.87	1.27	1.97	Denise a parlé à son petit ami
+female49-happ-left.avi	0.595	0.75	1.25	1.69	Eve va téléphoné à John
+female4-stat-left.avi	0.3	0.7	1.1	1.6	Jorgie a regardé un film
+female50-fear-right.avi	0.71	1.06	1.42	2.15	Alban a ramené un chien à la maison
+female51-incr-right.avi	0.56	0.87	1.21	1.78	Hugo a vendu la guitare
+female52-fear-right.avi	0.32	0.695	0.895	1.37	Robert a fait un pari
+female53-sad-right.avi	0.49	1.06	1.73	2.3	Vincent a anticipé sa rentrée
+female54-sad-right.avi	0.21	0.46	0.64	1.13	Ambre a lu la lettre
+female55-happ-left.avi	0.33	0.58	0.92	1.4	Alain est venu à la fête
+female56-sad-right.avi	0.5	0.795	1.25	1.83	Jeanne a accepté sa décision
+female58-anger-left.avi	0.26	0.57	0.75	1.41	Serge a pris mon téléphone
+female59-anger-left.avi	0.33	0.73	0.92	1.4	Marion était au bar
+female5-stat-left.avi	0.32	0.78	1.06	1.45	Chantal a acheté une maison
+female60-anger-left.avi	0.51	0.99	1.26	1.77	Gustave a été au stade
+female61-anger-left.avi	0.29	0.65	1.01	1.47	Albert a regardé la télé
+female62-anger-left.avi	0.36	0.77	1.14	1.705	Sylvie a frappé à la porte
+female63-anger-left.avi	0.817	1.22	1.51	2.5	Laurent a été à la montagne avec elle
+female64-anger-left.avi	0.34	0.69	1.1	1.76	Charles a regardé mes messages
+female6-stat-left.avi	0.38	0.74	1.28	1.78	Marion a organisé une fête
+female7-stat-left.avi	0.5	0.86	1.23	1.76	Nadine a commandé de la viande
+female8-stat-left.avi	0.38	0.7	0.93	1.16	Monique a pris l'avion
+female9-stat-left.avi	0.25	0.8	1.2	1.56	Virginie a adopté un chat
+male10-stat-left.avi	0.765	1.18	1.475	1.91	Tristan a écrit un roman
+male11-stat-left.avi	2.17	2.54	3.2	3.85	Alexi a participé au championnat
+male12-stat-left.avi	1.49	1.82	2.23	2.89	Margo a nettoyé les toilettes
+male13-stat-left.avi	1.14	1.47	1.86	2.45	Roxane a conduit la voiture
+male14-stat-left.avi	0.995	1.39	1.83	2.28	Bastien a prêté le vélo
+male15-stat-left.avi	1.31	1.65	2.08	2.4	David a préparé du riz
+male16-stat-left.avi	1.145	1.38	1.76	2.375	Hugo a vendu la guitare
+male17-incr-right.avi	1.155	1.57	2	2.645	Adeline a porté une robe
+male18-happ-left.avi	0.78	1.06	1.24	1.99	Corine a joué au théatre
+male19-incr-right.avi	1.35	1.69	1.87	2.22	Christine a fait un gâteau
+male1-stat-left.avi	0.83	1.18	1.54	2.095	Adeline a porté une robe
+male20-sad-right.avi	1.8	2.05	2.36	2.85	Marie a quitté la ville
+male21-incr-right.avi	1.32	1.72	2.27	2.85	Georgie a regardé un film
+male22-incr-right.avi	0.87	1.08	1.63	2.29	Claire a repassé une chemise
+male23-happ-left.avi	0.48	0.82	1.14	1.83	Maurice a changé son travail
+male24-incr-right.avi	0.93	1.33	1.68	2.18	Chantal a acheté une maison
+male25-happ-left.avi	1.68	1.99	2.3	2.98	Pascal a appelé son cousin
+male26-incr-right.avi	0.8	1.195	1.44	1.91	Monique a pris l'avion
+male27-happ-left.avi	0.945	1.23	1.43	1.98	Carole était à la gare
+male28incr-right.avi	0.41	0.79	1.105	1.54	Virginie a adopté un chat
+male29-happ-left.avi	0.82	1.13	1.52	2.26	Amélie m'a offert la guitare
+male2-stat-left.avi	0.92	1.18	1.68	2.26	Claire a repassé une chemise
+male30-incr-right.avi	1.01	1.34	1.75	2.22	Marion a organisé une fête
+male31-incr-right.avi	0.75	1.41	2.04	2.62	(abon) Alexia a participé au championnat
+male32-fear-right.avi	1.46	1.7	2	2.56	Lola est monté sur le toit
+male33-sad-right.avi	0.86	1.27	1.73	2.32	Bastian s'en est allé de la maison
+male34-incr-right.avi	0.41	0.77	1.34	1.98	Margo a nettoyé les toilettes
+male35-fear-right.avi	1.12	1.52	1.9	2.73	Cécile est sortie avec un homme brun
+male36-incr-right.avi	0.81	1.24	1.49	1.83	Tristan a écrit un roman
+male37-happ-left.avi	0.8	1.1	1.51	2.06	Annie m'a montré les photos
+male38-incr-right.avi	0.7	1.1	1.48	1.98	Roxane a conduit la voiture
+male39-sad-right.avi	0.58	1	1.55	2.095	Daniel m'a annoncé les résultats
+male3-stat-left.avi	1.39	1.76	1.95	2.38	Christine a fait un gâteau
+male40-fear-right.avi	0.49	0.86	1.08	1.6	Floriane a joué au tennis
+male41-incr-right.avi	0.73	1	1.27	1.73	Bastien a prêté son vélo
+male42-fear-right.avi	0.53	0.76	1.078	1.75	Audrey a passé les examens
+male43-incr-right.avi	1.01	1.38	1.6	2.02	Monique a pris l'avion
+male44-fear-right.avi	0.27	0.6	1	1.47	Cédric m'a demandé un rendez-vous
+male45-sad-right.avi	1.16	1.52	1.9	2.58	Céline a obtenu un emploi en Asie
+male46-fear-right.avi	0.42	0.69	1.2	1.8	Nadine a consulté un avocat
+male47-incr-right.avi	0.55	0.89	1.38	1.76	David a préparé du riz
+male48-sad-right.avi	0.91	1.34	1.69	2.51	Denise a parlé à son petit ami
+male49-happ-left.avi	0.78	0.96	1.47	2.06	Eve a téléphoné à John
+male4-stat-left.avi	1.34	1.77	2.18	2.74	Georgie a regardé un film
+male50-fear-right.avi	1.07	1.38	1.8	2.72	Alban a ramené un chien à la maison
+male51-incr-right.avi	0.72	1.07	1.51	2.12	Hugo a vendu sa guitare
+male52-fear-right.avi	1.15	1.41	1.6	2.17	Robert a fait un pari
+male53-sad-right.avi	0.82	1.32	1.8	2.41	Vincent a anticipé sa rentrée
+male54-sad-right.avi	1.02	1.35	1.55	1.96	Ambre a lu la lettre
+male55-happ-left.avi	1.01	1.24	1.46	2.2	Alain est venu à la fête
+male56-sad-right.avi	0.665	1.06	1.51	2.16	Jeanne a accepté sa décision
+male58-anger-left.avi	0.54	0.75	1.02	1.85	Serge a pris mon téléphone
+male59-anger-left.avi	0.66	1	1.2	1.6	Marion était au bar
+male5-stat-left.avi	0.87	1.31	1.67	2.18	Chantal a acheté une maison
+male60-anger-left.avi	0.38	0.75	0.98	1.44	Gustave a été au stade
+male61-anger-left.avi	0.66	1	1.54	2.08	Albert a regardé la télé
+male62-anger-left.avi	0.36	0.65	0.95	1.5	Sylvie a frappé à la porte
+male63-anger-left.avi	0.31	0.66	0.83	1.93	Laurent a été à la montagne avec elle
+male64-anger-left.avi	0.5	0.81	1.18	1.87	Sophie a parlé avec le patron
+male65-anger-left.avi	0.51	0.8	1.15	1.86	Charles a regardé mes messages
+male6-stat-left.avi	2.16	2.7	3.23	3.75	Marion a organisé la fête
+male7-stat-left.avi	0.91	1.33	1.72	2.3	Nadine a commandé la viande
+male8-stat-left.avi	1.02	1.38	1.63	2.02	Monique a pris l'avion
+male9-stat-left.avi	0.86	1.33	1.7	2.07	Virginie a adopté un chat
