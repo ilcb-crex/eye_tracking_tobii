@@ -9,7 +9,7 @@ For each stimulus, a sentence is pronounced by a speaker (e.g. "Mary organized a
 
 Stimuli consist of video that display a fixed image and the sound of the speaker. The video (called media in TobiiStudio) have been named after the experimental condition that its represents. For example, for the sentence with intonation related to incredulity / woman case / and related face expression at the right of the screen : female42-incr-right.avi. These informations from the file name will be extracted during the data processing and used to know the name of the experimental condition and the location of the target AOI.
 
-<img src="img/emoz_gazeplot_fem13stat_P23.png" width="400"> 
+<p align="center"> <img src="img/emoz_gazeplot_fem13stat_P23.jpg" width="400"> </p>
 
 ### Tobii data extraction
 Prior to extract raw data in tsv file per participant (Export function of TobiiStudio), the AOI have been defined for each visual stimulus, so that extracted files contain the additional columns of fixation hits values per AOI  (for each row - e.g. measurement per 8 ms - the hit value is NaN if the related AOI is not shown at the screen yet, 0 if AOI is activate (displayed) but not fixated and 1 if AOI is activate and fixated).
@@ -30,12 +30,13 @@ The name of the AOI are formatted so that it begins with the "Cor" or "Incor" in
 Tobii data that are provided in data/export_tobii directory are only a few sample of the whole data set (3 subjects/22).
 
 
-<img src="img/emoz_prop_assert_incr_goodmed.png" width="500"> 
+<p align="center"> <img src="img/emoz_prop_assert_incr_goodmed.png" width="500"> </p>
+
 Example of figure of result.
 
 
 
-# More details and comments will coming soon and can be provided by request !
+### More details and comments will coming soon and can be provided by request !
 
 Data struture output by emoz_timeanalysis_extract
 
